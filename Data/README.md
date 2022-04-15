@@ -53,6 +53,22 @@ Métodos:
 Métodos:
 
 #### CSV
+> Importar: Se realiza un "import csv"
+>Descripcion:
+     Los archivos de tipo CSV son de tipo binario  y estan conformados por un diccionario 
+     que consta de un indice y muchos valores para ese indice haciendo una estructura mas 
+     ordenada y legible. 
+Metodos:
+* with open ('archivo.csv', 'r') as variable -->Abre el archivo .csv para lectura
+* variable = csv.reader (archivo) --> Almacena la direccion de memoria del arhivo (llamaremos aux en los ej)
+* for variable in aux: 
+     print (vriable)   --> Imprime primero los nombres de los indices y despues todos los valores por cada indice
+                           linea por linea
+* for variable in aux: 
+     print (vriable[x]) --> Hace lo mismo que en el metodo anterior pero solo imprime los valores del indice que 
+                            contiene x, por ej si los indices son (nombre,apellido,email) y x vale 1 solo imprimira
+                            la columna del apellido (se cuanta desde 0)
+* with open ('archivo.csv', 'w') as variable -->Abreo crea un archivo .csv para escritura
 
 
 
