@@ -14,7 +14,7 @@
 > **Revisar modificaciones**: git log  
 > 
 > **Enlazar repositorio local y virtual** 
->1. git remote add origin "enlace"
+>1. git clone "enlace" (sin las comillas)
 >2. git branch -M main
 >3. git push -u origin main
 
@@ -53,6 +53,8 @@ Métodos:
 Métodos:
 
 #### CSV
+
+
 
 #### JSON
 
