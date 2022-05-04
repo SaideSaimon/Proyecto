@@ -21,10 +21,12 @@ def get_content():
     "Ubicación", "Superficie (km²)", “Profundidad
     máxima (m)”, “Profundidad media (m)”, "Coordenadas"
     """
+    directory = os.path.join(os.getcwd()[:-len("scripts")],
+                                     "csv_files")
     file_read = "Lagos Argentina - Hoja 1.csv"
     file_write = "Lagos_Argentina.csv "
-    path_read = os.path.join(os.getcwd(), file_read)
-    path_write = os.path.join(os.getcwd(), file_write)
+    path_read = os.path.join(directory, file_read)
+    path_write = os.path.join(directory, file_write)
 
     with open(path_read, 'r', encoding="UTF-8") as file_r:
         file_reader = csv.reader(file_r)
@@ -39,3 +41,4 @@ def get_content():
 
 if __name__ == '__main__':
     get_content()
+    print("chocho")
