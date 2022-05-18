@@ -1,4 +1,0 @@
-.git
-.idea
-.ipynb_checkpoints
-Data
