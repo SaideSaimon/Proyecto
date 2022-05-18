@@ -1,0 +1,1 @@
+""" aca tendria que ir una configuracion incial para jugar por defualt? ?"""

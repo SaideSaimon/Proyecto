@@ -1,0 +1,30 @@
+{
+    "Easy": {
+        "-time-": 90,
+        "-rounds-": 5,
+        "-correct-": 50,
+        "-incorrect-": -50,
+        "-clues-": 4
+    },
+    "Normal": {
+        "-time-": "30",
+        "-rounds-": "15",
+        "-correct-": "150",
+        "-incorrect-": "-50",
+        "-clues-": "3"
+    },
+    "Hard": {
+        "-time-": "30",
+        "-rounds-": "15",
+        "-correct-": "150",
+        "-incorrect-": "-50",
+        "-clues-": "3"
+    },
+    "p": {
+        "-time-": "",
+        "-rounds-": "12",
+        "-correct-": "12",
+        "-incorrect-": "12",
+        "-clues-": "12"
+    }
+}
