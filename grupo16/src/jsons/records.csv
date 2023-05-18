@@ -1,0 +1,231 @@
+timestamp,id,evento,usuario,estado,texto ingresado,respuesta,nivel
+1655672542,6263d6b3c21a487587189745a096bc32,inicio_partida,Sai,,,,Dificil
+1655672545,6263d6b3c21a487587189745a096bc32,intento,Sai,ok,Lago Fontana,Lago Fontana,Dificil
+1655672549,6263d6b3c21a487587189745a096bc32,intento,Sai,ok,Lago Pico Nº 1,Lago Pico Nº 1,Dificil
+1655672551,6263d6b3c21a487587189745a096bc32,intento,Sai,ok,Dukono (Indonesia),Dukono (Indonesia),Dificil
+1655672555,6263d6b3c21a487587189745a096bc32,intento,Sai,ok,Camiguin (Philippines),Camiguin (Philippines),Dificil
+1655672558,6263d6b3c21a487587189745a096bc32,intento,Sai,ok,Ragang (Philippines),Ragang (Philippines),Dificil
+1655672561,6263d6b3c21a487587189745a096bc32,intento,Sai,paso,  ,Mayon (Philippines),Dificil
+1655672561,6263d6b3c21a487587189745a096bc32,intento,Sai,paso,  ,Lago Fontana,Dificil
+1655672562,6263d6b3c21a487587189745a096bc32,intento,Sai,paso,  ,Lago Musters,Dificil
+1655672563,6263d6b3c21a487587189745a096bc32,intento,Sai,paso,  ,Carlos Lendezo,Dificil
+1655672563,6263d6b3c21a487587189745a096bc32,intento,Sai,paso,  ,Zaidu Sanusi,Dificil
+1655672563,6263d6b3c21a487587189745a096bc32,fin,Sai,finalizada,-,,Dificil
+1655862466,e8a1e27bef82414fbe4a3eb62fc3876d,inicio_partida,Hola,,,,Custom
+1655862470,e8a1e27bef82414fbe4a3eb62fc3876d,intento,Hola,ok,Lonquimay (Chile),Lonquimay (Chile),Custom
+1655862477,e8a1e27bef82414fbe4a3eb62fc3876d,intento,Hola,ok,Mayon (Philippines),Mayon (Philippines),Custom
+1655862479,e8a1e27bef82414fbe4a3eb62fc3876d,intento,Hola,ok,Lago Fontana,Lago Fontana,Custom
+1655862481,e8a1e27bef82414fbe4a3eb62fc3876d,intento,Hola,ok,Awu (Indonesia),Awu (Indonesia),Custom
+1655862485,e8a1e27bef82414fbe4a3eb62fc3876d,intento,Hola,ok,Kilauea (United States),Kilauea (United States),Custom
+1655862485,e8a1e27bef82414fbe4a3eb62fc3876d,fin,Hola,finalizada,-,,Custom
+1655862562,64314467ca714967bfe1d826670303ca,inicio_partida,Hola,,,,Custom
+1655862566,64314467ca714967bfe1d826670303ca,intento,Hola,ok,Soufriere St. Vincent (St. Vincent & the Grenadines),Soufriere St. Vincent (St. Vincent & the Grenadines),Custom
+1655862568,64314467ca714967bfe1d826670303ca,intento,Hola,error,Stanley Elbers,Stanley Nsoki,Custom
+1655862573,64314467ca714967bfe1d826670303ca,intento,Hola,ok,Lago Asador o Guitarra,Lago Asador o Guitarra,Custom
+1655862575,64314467ca714967bfe1d826670303ca,intento,Hola,ok,Kikai (Japan),Kikai (Japan),Custom
+1655862578,64314467ca714967bfe1d826670303ca,intento,Hola,ok,Raikoke (Russia),Raikoke (Russia),Custom
+1655862578,64314467ca714967bfe1d826670303ca,fin,Hola,finalizada,-,,Custom
+1655862624,3c49e1d15f4a423282eef2ba77c523da,inicio_partida,Hola,,,,Facil
+1655862627,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Vesuvius (Italy),Vesuvius (Italy),Facil
+1655862630,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Mert Müldür,Mert Müldür,Facil
+1655862632,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Alfredo Ramúa,Alfredo Ramúa,Facil
+1655862634,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Lago Musters,Lago Musters,Facil
+1655862637,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Tobias Karlsson,Tobias Karlsson,Facil
+1655862639,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Lago Traful,Lago Traful,Facil
+1655862643,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Tengger Caldera (Indonesia),Tengger Caldera (Indonesia),Facil
+1655862647,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Harry Burgoyne,Harry Burgoyne,Facil
+1655862650,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Ali Al Hassan,Ali Al Hassan,Facil
+1655862653,3c49e1d15f4a423282eef2ba77c523da,intento,Hola,ok,Kenta Ito,Kenta Ito,Facil
+1655862653,3c49e1d15f4a423282eef2ba77c523da,fin,Hola,finalizada,-,,Facil
+1655862745,2fdd2539cd0f45d6b74187b22d6c8386,inicio_partida,Hola,,,,Facil
+1655862748,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Cao Yongjing,Cao Yongjing,Facil
+1655862751,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Stanley Elbers,Stanley Elbers,Facil
+1655862753,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Lago Chepelmut,Lago Chepelmut,Facil
+1655862756,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Ángelo Sagal,Ángelo Sagal,Facil
+1655862758,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Alaid (Russia),Alaid (Russia),Facil
+1655862761,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Mayon (Philippines),Mayon (Philippines),Facil
+1655862763,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,David Rodríguez,David Rodríguez,Facil
+1655862765,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Rubén Yáñez,Rubén Yáñez,Facil
+1655862767,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Gideon Jung,Gideon Jung,Facil
+1655862769,2fdd2539cd0f45d6b74187b22d6c8386,intento,Hola,ok,Lago Viedma,Lago Viedma,Facil
+1655862769,2fdd2539cd0f45d6b74187b22d6c8386,fin,Hola,finalizada,-,,Facil
+1655924471,b51bc51518254673ae38bd7bd8c66145,inicio_partida,Hola,,,,Custom
+1655924531,b51bc51518254673ae38bd7bd8c66145,intento,Hola,timeout,-,Denis,Custom
+1655924591,b51bc51518254673ae38bd7bd8c66145,intento,Hola,timeout,-,Perera,Custom
+1655924651,b51bc51518254673ae38bd7bd8c66145,intento,Hola,timeout,-,Semeru (Indonesia),Custom
+1655924656,b51bc51518254673ae38bd7bd8c66145,intento,Hola,paso,  ,Miguel Silva,Custom
+1655924657,b51bc51518254673ae38bd7bd8c66145,intento,Hola,paso,  ,Lago Moquehue,Custom
+1655924657,b51bc51518254673ae38bd7bd8c66145,fin,Hola,finalizada,-,,Custom
+1655927981,da6c27a86e1e4fd9b6f474eef170ffb8,inicio_partida,Sai,,,,Normal
+1655927981,da6c27a86e1e4fd9b6f474eef170ffb8,fin,Sai,abandonada,-,,Normal
+1655928034,cbdb0e9bdcac46d89c765a3b944a5ed0,inicio_partida,Sai,,,,Normal
+1655928034,cbdb0e9bdcac46d89c765a3b944a5ed0,fin,Sai,abandonada,-,,Normal
+1655928084,ce6a47775d57458e954227a2b671111d,inicio_partida,Sai,,,,Normal
+1655928084,ce6a47775d57458e954227a2b671111d,fin,Sai,abandonada,-,,Normal
+1655929029,11b38659875f41a2b687f4a8d438af1e,inicio_partida,Sai,,,,Normal
+1655929036,11b38659875f41a2b687f4a8d438af1e,intento,Sai,ok,Lago Tar,Lago Tar,Normal
+1655929040,11b38659875f41a2b687f4a8d438af1e,intento,Sai,ok,Björn Kopplin,Björn Kopplin,Normal
+1655929042,11b38659875f41a2b687f4a8d438af1e,intento,Sai,error,San Salvador(El Salvador),Hekla(Iceland),Normal
+1655929051,11b38659875f41a2b687f4a8d438af1e,intento,Sai,error,Soufriere St. Vincent(St. Vincent & the Grenadines),Deception Island(Antarctica),Normal
+1655929057,11b38659875f41a2b687f4a8d438af1e,intento,Sai,ok,Tungurahua(Ecuador),Tungurahua(Ecuador),Normal
+1655929057,11b38659875f41a2b687f4a8d438af1e,fin,Sai,abandonada,-,,Normal
+1655929127,3e2057750d8548ca954407ffb886ff51,inicio_partida,Sai,,,,Normal
+1655929136,3e2057750d8548ca954407ffb886ff51,intento,Sai,error,Ronny Montero,Gustavo Torres,Normal
+1655929147,3e2057750d8548ca954407ffb886ff51,intento,Sai,ok,Lago Puelo,Lago Puelo,Normal
+1655929152,3e2057750d8548ca954407ffb886ff51,intento,Sai,ok,Jonathan Mitchell,Jonathan Mitchell,Normal
+1655929157,3e2057750d8548ca954407ffb886ff51,intento,Sai,ok,Myojun Knoll(Japan),Myojun Knoll(Japan),Normal
+1655929161,3e2057750d8548ca954407ffb886ff51,intento,Sai,error,Tiemoué Bakayoko,Christopher Wernitznig,Normal
+1655929162,3e2057750d8548ca954407ffb886ff51,intento,Sai,error,Semeru(Indonesia),Didicas(Philippines),Normal
+1655929162,3e2057750d8548ca954407ffb886ff51,fin,Sai,abandonada,-,,Normal
+1655929225,eb70bc47846c4d428e146333dfbad54a,inicio_partida,Sai,,,,Normal
+1655929231,eb70bc47846c4d428e146333dfbad54a,intento,Sai,error,Tim Ream,Jack Rodwell,Normal
+1655929233,eb70bc47846c4d428e146333dfbad54a,intento,Sai,error,Tofua (Tonga),Raung (Indonesia),Normal
+1655929234,eb70bc47846c4d428e146333dfbad54a,intento,Sai,ok,Richard Sánchez,Richard Sánchez,Normal
+1655929234,eb70bc47846c4d428e146333dfbad54a,fin,Sai,abandonada,-,,Normal
+1655929260,18438bf6710c42aeb295778fd9b51c7a,inicio_partida,Sai,,,,Normal
+1655929263,18438bf6710c42aeb295778fd9b51c7a,intento,Sai,error,Mombacho (Nicaragua),"Chichon, El (Mexico)",Normal
+1655929276,18438bf6710c42aeb295778fd9b51c7a,intento,Sai,ok,Katla(Iceland),Katla(Iceland),Normal
+1655929276,18438bf6710c42aeb295778fd9b51c7a,fin,Sai,abandonada,-,,Normal
+1655929316,46b4d3ed9ab147b6ab831025afd60ce0,inicio_partida,Sai,,,,Normal
+1655929319,46b4d3ed9ab147b6ab831025afd60ce0,intento,Sai,error,Nikolaj Kirk,Arnór Ingvi Traustason,Normal
+1655929319,46b4d3ed9ab147b6ab831025afd60ce0,fin,Sai,abandonada,-,,Normal
+1655929349,1f0f4ec983274e27859eb751cb51d3ba,inicio_partida,Sai,,,,Normal
+1655929354,1f0f4ec983274e27859eb751cb51d3ba,intento,Sai,error,Callum Reilly,Malang Sarr,Normal
+1655929355,1f0f4ec983274e27859eb751cb51d3ba,intento,Sai,error,Krakatau(Indonesia),Vesuvius(Italy),Normal
+1655929357,1f0f4ec983274e27859eb751cb51d3ba,intento,Sai,error,Carlos Kevin,Alessandro Ciranni,Normal
+1655929361,1f0f4ec983274e27859eb751cb51d3ba,intento,Sai,ok,Batur (Indonesia),Batur (Indonesia),Normal
+1655929362,1f0f4ec983274e27859eb751cb51d3ba,intento,Sai,ok,Nikolay Rasskazov,Nikolay Rasskazov,Normal
+1655929364,1f0f4ec983274e27859eb751cb51d3ba,intento,Sai,error,Villarrica (Chile),Dieng Volc Complex (Indonesia),Normal
+1655929364,1f0f4ec983274e27859eb751cb51d3ba,fin,Sai,abandonada,-,,Normal
+1655982885,9955d304ec684a248a11c0547d4fadda,inicio_partida,Sai,,,,Normal
+1655982888,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Karthala(Comoros),Santa Maria(Guatemala),Normal
+1655982895,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Kilauea(United States),Tungurahua(Ecuador),Normal
+1655982897,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Semeru(Indonesia),Rabaul(Papua New Guinea),Normal
+1655982898,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,La Palma(Spain),Bardarbunga(Iceland),Normal
+1655982899,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Lago Mascardi,Lago Epecuén,Normal
+1655982900,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Sinabung (Indonesia),Lokon-Empung (Indonesia),Normal
+1655982900,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Kirishima(Japan),Dakataua(Papua New Guinea),Normal
+1655982901,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Gamalama (Indonesia),Kilauea (United States),Normal
+1655982902,9955d304ec684a248a11c0547d4fadda,intento,Sai,error,Aniakchak(United States),Tungurahua(Ecuador),Normal
+1655982903,9955d304ec684a248a11c0547d4fadda,intento,Sai,ok,Vestmannaeyjar(Iceland),Vestmannaeyjar(Iceland),Normal
+1655982903,9955d304ec684a248a11c0547d4fadda,fin,Sai,finalizada,-,,Normal
+1655985285,a00242855e72451fb3ac1eb0ce054ee9,inicio_partida,Hola,,,,Facil
+1655985294,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Lago Menéndez,Lago Menéndez,Facil
+1655985297,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Lago Lácar,Lago Lácar,Facil
+1655985299,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Lago Rivadavia,Lago Rivadavia,Facil
+1655985302,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,error,Lago Epecuén,Lago Argentino,Facil
+1655985305,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Tinakula (Solomon Is.),Tinakula (Solomon Is.),Facil
+1655985307,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Asama(Japan),Asama(Japan),Facil
+1655985309,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Sakura-jima(Japan),Sakura-jima(Japan),Facil
+1655985311,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Stephane Omeonga,Stephane Omeonga,Facil
+1655985316,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Lago Menéndez,Lago Menéndez,Facil
+1655985320,a00242855e72451fb3ac1eb0ce054ee9,intento,Hola,ok,Brandon Thomas-Asante,Brandon Thomas-Asante,Facil
+1655985320,a00242855e72451fb3ac1eb0ce054ee9,fin,Hola,finalizada,-,,Facil
+1655985334,5b681a086a9b4f32848f4f056f63b917,inicio_partida,Hola,,,,Custom
+1655985337,5b681a086a9b4f32848f4f056f63b917,intento,Hola,ok,Hualalai (United States),Hualalai (United States),Custom
+1655985344,5b681a086a9b4f32848f4f056f63b917,intento,Hola,paso,  ,Lago Gutiérrez,Custom
+1655985344,5b681a086a9b4f32848f4f056f63b917,intento,Hola,paso,  ,Leon Clarke,Custom
+1655985345,5b681a086a9b4f32848f4f056f63b917,intento,Hola,paso,  ,Banda Api(Pacific Ocean),Custom
+1655985346,5b681a086a9b4f32848f4f056f63b917,intento,Hola,paso,  ,Gonzalo Marinelli,Custom
+1655985346,5b681a086a9b4f32848f4f056f63b917,fin,Hola,finalizada,-,,Custom
+1655985349,9051f19f07924821abb4699de1c070e4,inicio_partida,Hola,,,,Custom
+1655985356,9051f19f07924821abb4699de1c070e4,intento,Hola,ok,St. Andrew Strait(Papua New Guinea),St. Andrew Strait(Papua New Guinea),Custom
+1655985358,9051f19f07924821abb4699de1c070e4,intento,Hola,ok,Lago Gutiérrez,Lago Gutiérrez,Custom
+1655985361,9051f19f07924821abb4699de1c070e4,intento,Hola,ok,Dieng Volc Complex(Indonesia),Dieng Volc Complex(Indonesia),Custom
+1655985363,9051f19f07924821abb4699de1c070e4,intento,Hola,ok,Mario Sonnleitner,Mario Sonnleitner,Custom
+1655985365,9051f19f07924821abb4699de1c070e4,intento,Hola,ok,Sinabung (Indonesia),Sinabung (Indonesia),Custom
+1655985365,9051f19f07924821abb4699de1c070e4,fin,Hola,finalizada,-,,Custom
+1655985368,60c74c20c28c47abb98808a4343ddb29,inicio_partida,Hola,,,,Custom
+1655985370,60c74c20c28c47abb98808a4343ddb29,intento,Hola,ok,Luis Rodríguez,Luis Rodríguez,Custom
+1655985373,60c74c20c28c47abb98808a4343ddb29,intento,Hola,ok,Samuele Perisan,Samuele Perisan,Custom
+1655985381,60c74c20c28c47abb98808a4343ddb29,intento,Hola,ok,Reventador(Ecuador),Reventador(Ecuador),Custom
+1655985383,60c74c20c28c47abb98808a4343ddb29,intento,Hola,ok,Johannes van den Bergh,Johannes van den Bergh,Custom
+1655985385,60c74c20c28c47abb98808a4343ddb29,intento,Hola,ok,Asama(Japan),Asama(Japan),Custom
+1655985385,60c74c20c28c47abb98808a4343ddb29,fin,Hola,finalizada,-,,Custom
+1655985388,439b742c2f58455ba8dda30cc470528e,inicio_partida,Hola,,,,Custom
+1655985390,439b742c2f58455ba8dda30cc470528e,intento,Hola,ok,Luis Rodríguez,Luis Rodríguez,Custom
+1655985392,439b742c2f58455ba8dda30cc470528e,intento,Hola,ok,Luis Rodríguez,Luis Rodríguez,Custom
+1655985394,439b742c2f58455ba8dda30cc470528e,intento,Hola,ok,Luis Rodríguez,Luis Rodríguez,Custom
+1655985396,439b742c2f58455ba8dda30cc470528e,intento,Hola,ok,Luis Rodríguez,Luis Rodríguez,Custom
+1655985398,439b742c2f58455ba8dda30cc470528e,intento,Hola,ok,Luis Rodríguez,Luis Rodríguez,Custom
+1655985400,439b742c2f58455ba8dda30cc470528e,fin,Hola,abandonada,-,,Custom
+1655989874,bfc17a8e2fe548deb454c5ad7682abd1,inicio_partida,Sai,,,,Normal
+1655989874,bfc17a8e2fe548deb454c5ad7682abd1,fin,Sai,abandonada,-,,Normal
+1655989898,a2ff91860d6f4e3db1fd30c1dc28908f,inicio_partida,Sai,,,,Dificil
+1655989898,a2ff91860d6f4e3db1fd30c1dc28908f,fin,Sai,abandonada,-,,Dificil
+1655989904,41d39cec90de452487dee1003c76fc7e,inicio_partida,Sai,,,,Dificil
+1655989904,41d39cec90de452487dee1003c76fc7e,fin,Sai,abandonada,-,,Dificil
+1655989929,d82f74ba521c44f3851a1c6270dee3c6,inicio_partida,Sai,,,,Dificil
+1655989931,d82f74ba521c44f3851a1c6270dee3c6,intento,Sai,ok,Manu Barreiro,Manu Barreiro,Dificil
+1655989932,d82f74ba521c44f3851a1c6270dee3c6,intento,Sai,error,Asama(Japan),Bandai(Japan),Dificil
+1655989932,d82f74ba521c44f3851a1c6270dee3c6,fin,Sai,abandonada,-,,Dificil
+1656010069,39fdf2ff91f7463d9444c4135328418f,inicio_partida,Sai,,,,Normal
+1656010073,39fdf2ff91f7463d9444c4135328418f,intento,Sai,error,Hekla (Iceland),Merapi (Indonesia),Normal
+1656010073,39fdf2ff91f7463d9444c4135328418f,fin,Sai,abandonada,-,,Normal
+1656086589,517cbe97520e4bcbac4d03793d813b80,inicio_partida,ExploBth,,,,Custom
+1656086596,517cbe97520e4bcbac4d03793d813b80,intento,ExploBth,ok,Ragang (Philippines),Ragang (Philippines),Custom
+1656086604,517cbe97520e4bcbac4d03793d813b80,intento,ExploBth,ok,Lago Argentino,Lago Argentino,Custom
+1656086607,517cbe97520e4bcbac4d03793d813b80,intento,ExploBth,ok,Hekla (Iceland),Hekla (Iceland),Custom
+1656086610,517cbe97520e4bcbac4d03793d813b80,intento,ExploBth,ok,Artur Jedrzejczyk,Artur Jedrzejczyk,Custom
+1656086619,517cbe97520e4bcbac4d03793d813b80,intento,ExploBth,ok,Anders Dreyer,Anders Dreyer,Custom
+1656086619,517cbe97520e4bcbac4d03793d813b80,fin,ExploBth,finalizada,-,,Custom
+1656086646,fe49f47cd2694d3c828299fcadac3601,inicio_partida,ExploBth,,,,Custom
+1656086651,fe49f47cd2694d3c828299fcadac3601,intento,ExploBth,ok,Lago Futalaufquen,Lago Futalaufquen,Custom
+1656086653,fe49f47cd2694d3c828299fcadac3601,intento,ExploBth,error,Dieng Volc Complex(Indonesia),Mayon(Philippines),Custom
+1656086654,fe49f47cd2694d3c828299fcadac3601,intento,ExploBth,paso,  ,Santorini (Greece),Custom
+1656086655,fe49f47cd2694d3c828299fcadac3601,intento,ExploBth,paso,  ,Kirishima(Japan),Custom
+1656086655,fe49f47cd2694d3c828299fcadac3601,intento,ExploBth,paso,  ,Salak(Indonesia),Custom
+1656086655,fe49f47cd2694d3c828299fcadac3601,fin,ExploBth,finalizada,-,,Custom
+1656086658,929d982515744e6aa32e34a67f861ccc,inicio_partida,ExploBth,,,,Custom
+1656086662,929d982515744e6aa32e34a67f861ccc,intento,ExploBth,ok,Lago Lácar,Lago Lácar,Custom
+1656086667,929d982515744e6aa32e34a67f861ccc,intento,ExploBth,ok,Sakura-jima(Japan),Sakura-jima(Japan),Custom
+1656086669,929d982515744e6aa32e34a67f861ccc,intento,ExploBth,paso,  ,Santorini(Greece),Custom
+1656086670,929d982515744e6aa32e34a67f861ccc,intento,ExploBth,paso,  ,Ari Skúlason,Custom
+1656086671,929d982515744e6aa32e34a67f861ccc,intento,ExploBth,paso,  ,Lago Menéndez,Custom
+1656086671,929d982515744e6aa32e34a67f861ccc,fin,ExploBth,finalizada,-,,Custom
+1655997554,85eca97b68314c2e877e53970c09df71,inicio_partida,ExploBth,,,,Facil
+1655997556,85eca97b68314c2e877e53970c09df71,intento,ExploBth,error,Hekla (Iceland),Unnamed (Chile),Facil
+1655997556,85eca97b68314c2e877e53970c09df71,fin,ExploBth,cancelada,-,,Facil
+1656007682,316b21eb442f45faa43de642f4c6812b,inicio_partida,ExploBth,,,,Facil
+1656007772,316b21eb442f45faa43de642f4c6812b,intento,ExploBth,timeout,-,Campi Flegrei(Italy),Facil
+1656007772,316b21eb442f45faa43de642f4c6812b,fin,ExploBth,cancelada,-,,Facil
+1656539073,4039665e65cf4ad5bd93730af7c8f8fb,inicio_partida,ExploBth,,,,Normal
+1656539080,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,error,Etna(Italy),Krafla(Iceland),Normal
+1656539083,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,error,Lago Nahuel Huapi,Lago Gutiérrez,Normal
+1656539104,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,error,Karangetang [Api Siau](Indonesia),Campi Flegrei(Italy),Normal
+1656539134,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,timeout,-,Tangkubanparahu(Indonesia),Normal
+1656539164,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,timeout,-,Apoyeque(Nicaragua),Normal
+1656539166,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,paso,  ,Katla(Iceland),Normal
+1656539187,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,error,Soufriere Guadeloupe(Guadeloupe),Karangetang [Api Siau](Indonesia),Normal
+1656539188,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,error,Shiveluch(Russia),Narugo(Japan),Normal
+1656539203,4039665e65cf4ad5bd93730af7c8f8fb,intento,ExploBth,ok,Lago Gutiérrez,Lago Gutiérrez,Normal
+1656539203,4039665e65cf4ad5bd93730af7c8f8fb,fin,ExploBth,abandonada,-,,Normal
+1658258345,74e8c134f9c44fbe9c1cfc9bf9a1a207,inicio_partida,ExploBth,,,,Facil
+1658258345,74e8c134f9c44fbe9c1cfc9bf9a1a207,fin,ExploBth,abandonada,-,,Facil
+1659036010,22483daaa522489992b5bde9192a83a9,inicio_partida,ExploBth,,,,Facil
+1659036100,22483daaa522489992b5bde9192a83a9,intento,ExploBth,timeout,-,Gamkonora(Indonesia),Facil
+1659036100,22483daaa522489992b5bde9192a83a9,fin,ExploBth,abandonada,-,,Facil
+1659046354,1319503031344e7cbb9286871c8f908a,inicio_partida,ExploBth,,,,Facil
+1659046354,1319503031344e7cbb9286871c8f908a,fin,ExploBth,abandonada,-,,Facil
+1659046408,db669643ffe94963a8534a3b9c61af97,inicio_partida,ExploBth,,,,Facil
+1659046408,db669643ffe94963a8534a3b9c61af97,fin,ExploBth,abandonada,-,,Facil
+1659046689,bbcfc142817841e0a3e748849aef71b1,inicio_partida,ExploBth,,,,Facil
+1659046779,bbcfc142817841e0a3e748849aef71b1,intento,ExploBth,timeout,-,Lago Nahuel Huapi,Facil
+1659046869,bbcfc142817841e0a3e748849aef71b1,intento,ExploBth,timeout,-,Etna(Italy),Facil
+1659046869,bbcfc142817841e0a3e748849aef71b1,fin,ExploBth,abandonada,-,,Facil
+1659047055,e6f06273bddd4acca7481f0efbf628a5,inicio_partida,ExploBth,,,,Facil
+1659047057,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Okmok(United States),Kilauea(United States),Facil
+1659047057,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Marc Pedersen,Muteb Al Mutlaq,Facil
+1659047057,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Lago Mascardi,Lago Cholila,Facil
+1659047057,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Lago Mascardi,Lago Menéndez,Facil
+1659047058,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Karthala(Comoros),Pinatubo(Philippines),Facil
+1659047059,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Duván Zapata,Mirko Valdifiori,Facil
+1659047060,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,ok,Ivanildo Fernandes,Ivanildo Fernandes,Facil
+1659047060,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Jakub Wawszczyk,Joona Toivio,Facil
+1659047060,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,error,Merapi(Indonesia),Calbuco(Chile),Facil
+1659047061,e6f06273bddd4acca7481f0efbf628a5,intento,ExploBth,ok,Lago Lácar,Lago Lácar,Facil
+1659047061,e6f06273bddd4acca7481f0efbf628a5,fin,ExploBth,finalizada,-,,Facil
+1660084136,31700d954bc54eb2abcbe31302b33e4f,inicio_partida,ExploBth,,,,Facil
+1660084136,31700d954bc54eb2abcbe31302b33e4f,fin,ExploBth,abandonada,-,,Facil
+1660613593,bba45d8136da439cb9050fc2806d9892,inicio_partida,Sai,,,,Normal
+1660613593,bba45d8136da439cb9050fc2806d9892,fin,Sai,abandonada,-,,Normal

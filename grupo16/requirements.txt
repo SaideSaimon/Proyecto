@@ -1,3 +1,5 @@
 notebook==6.4.11
 PySimpleGUI>=4.60.0
-
+pandas==1.4.2
+matplotlib~=3.5.2
+typing~=3.7.4.3

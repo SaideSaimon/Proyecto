@@ -1,0 +1,1 @@
+{"Facil": {"-time-": 90, "-rounds-": 10, "-correct-": 25, "-incorrect-": 0, "-clues-": 5}, "Normal": {"-time-": 30, "-rounds-": 10, "-correct-": 50, "-incorrect-": 0, "-clues-": 3}, "Dificil": {"-time-": 15, "-rounds-": 10, "-correct-": 100, "-incorrect-": 0, "-clues-": 1}, "Custom": {"-time-": 60, "-rounds-": 5, "-correct-": 200, "-incorrect-": -100, "-clues-": 4}}
